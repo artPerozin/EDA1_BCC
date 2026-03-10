@@ -255,7 +255,7 @@ Obrigatório para fechar qualquer bloco aberto por `#if`, `#ifdef` ou `#ifndef`.
 | Diretiva   | Função                                              |
 |------------|-----------------------------------------------------|
 | `#include` | Inclui o conteúdo de outro arquivo                  |
-| `#define`  | Define uma macro ou constante simbólica             |
+| `#define`  | Define uma amacro ou constante simbólica             |
 | `#undef`   | Remove a definição de uma macro                     |
 | `#ifdef`   | Compila se a macro **estiver** definida             |
 | `#ifndef`  | Compila se a macro **não estiver** definida         |
