@@ -1,12 +1,12 @@
 ## **De A -> B:**
 
 ```c
-p->pt = q;
+p->ptr = q;
 ```
 
 ## **De A -> C:**
 
 ```c
-p->pt = q;
-q->pt = q;
+p->ptr = q;
+q->ptr = q;
 ```
