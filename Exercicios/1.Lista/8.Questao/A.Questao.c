@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "lista.h"
+#include "Interface.h"
 
 Nodo* criaNodo(int v){
 

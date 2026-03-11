@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "lista.h"
+#include "Interface.h"
 
 int contaNodo(Descritor *p){
 
